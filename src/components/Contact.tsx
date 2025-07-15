@@ -81,7 +81,7 @@ ${formData.message}
                 </div>
                 <div>
                   <h4 className="text-lg font-medium text-gray-800">Location</h4>
-                  <p className="text-gray-600">Your City, State</p>
+                  <p className="text-gray-600">Chennai, TamilNadu </p>
                 </div>
               </div>
             </div>
