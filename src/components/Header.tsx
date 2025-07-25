@@ -6,7 +6,7 @@ const Header: React.FC = () => {
   const [isScrolled, setIsScrolled] = useState(false);
   
   // Replace YOUR_FILE_ID with your actual Google Drive file ID
-  const resumeUrl = "https://drive.google.com/file/d/1VwkMn-2FjngNx-90YFa_RRC6b2Cj3RlS/view?usp=drive_link";
+  const resumeUrl = "https://drive.google.com/drive/u/0/folders/136lSzRocc_Iov9QmNXdRwCpZ9QzneqU3";
 
   useEffect(() => {
     const handleScroll = () => {
